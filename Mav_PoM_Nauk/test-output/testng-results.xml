@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14034" started-at="2017-07-22T14:46:07Z" finished-at="2017-07-22T14:46:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14034" started-at="2017-07-22T14:46:07Z" finished-at="2017-07-22T14:46:21Z">
+      <class name="com.dxc.Nauktest.testScripts.Naukriupdate">
+        <test-method status="PASS" signature="bfsuite()[pri:0, instance:com.dxc.Nauktest.testScripts.Naukriupdate@a3ffec]" name="bfsuite" is-config="true" duration-ms="5803" started-at="2017-07-22T20:16:01Z" finished-at="2017-07-22T20:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfsuite -->
+        <test-method status="PASS" signature="naukriUpdateprof()[pri:0, instance:com.dxc.Nauktest.testScripts.Naukriupdate@a3ffec]" name="naukriUpdateprof" duration-ms="14012" started-at="2017-07-22T20:16:07Z" finished-at="2017-07-22T20:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naukriUpdateprof -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dxc.Nauktest.testScripts.Naukriupdate@a3ffec]" name="tearDown" is-config="true" duration-ms="1141" started-at="2017-07-22T20:16:21Z" finished-at="2017-07-22T20:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dxc.Nauktest.testScripts.Naukriupdate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
