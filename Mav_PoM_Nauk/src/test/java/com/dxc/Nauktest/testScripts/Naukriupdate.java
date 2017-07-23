@@ -44,6 +44,7 @@ public class Naukriupdate extends TestBase{
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		MyNaukPage mnp = new MyNaukPage();
 		mnp.changeResumetitle();
+		//logout from naukri
 		mnp.naukLogout();
 		
 	}
